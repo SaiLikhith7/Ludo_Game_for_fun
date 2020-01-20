@@ -35,7 +35,6 @@
     Select the ENTER button 
   </li>
   
-
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
