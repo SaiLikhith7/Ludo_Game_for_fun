@@ -1,6 +1,7 @@
-# webpages.github.io
-# Product Name
-> Short blurb about what your product does.
+# sailikhith.github.io
+# Ludo for fun
+> This is a fun Ludo game which runs random dice sequence when played. Two player modes and Human vs Computer mode also exist
+
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
