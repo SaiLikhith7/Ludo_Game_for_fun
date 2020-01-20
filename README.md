@@ -2,10 +2,8 @@
 # Ludo for fun
 > This is a fun Ludo game which runs random dice sequence when played. Two player modes and Human vs Computer mode also exist
 
+[![Sai Likhith][https://img.shields.io/badge/Sai%20Likhith-ludo-brightgreen]][https://www.github.com/sailikhith7]
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
 
@@ -57,10 +55,3 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
