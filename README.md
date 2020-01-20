@@ -2,7 +2,7 @@
 # Ludo for fun
 > This is a fun Ludo game which runs random dice sequence when played. Two player modes and Human vs Computer mode also exist
 
-![SaiLikhith][https://img.shields.io/badge/Sai%20Likhith-ludo-brightgreen][https://www.github.com/sailikhith7/ludo_game_for_fun/]
+![SaiLikhith](https://img.shields.io/badge/Sai%20Likhith-ludo-brightgreen)(https://www.github.com/sailikhith7/ludo_game_for_fun/)
 
 
 One to two paragraph statement about your product and what it does.
